@@ -2,7 +2,7 @@
 
 Nowadays, airline ticket prices can vary dynamically for the same flight. Customers are seeking to get the lowest price while airlines are trying to keep their overall revenue as high as possible and maximize their profit. Airlines use various kinds of computational techniques to increase their revenue such as demand prediction and price discrimination. But from customer perspective they want to save money so i have proposed a model that predicts the approximate ticket price so that customer can find when is the optimal time to buy a ticket is. 
 
-The Flight Fare Prediction predict the flight price using regression based Machine Learning algorithms and helps users look for optimal time and prices to book flight tickets.
+The Flight Fare Prediction predict the flight price using XGBoost regression based Machine Learning algorithms and helps users look for optimal time and prices to book flight tickets.
 ## Table of Content
   * [Demo](#demo)
   * [Dataset](#dataset)
@@ -23,7 +23,7 @@ Heroku Link: [https://flight-fare-prediction-kd.herokuapp.com/](https://flight-f
 [![](https://i.postimg.cc/FKQfVBn7/flight-result-prediction.jpg)](https://flight-fare-prediction-kd.herokuapp.com/)
 
 ## Dataset
-[(Back to top)](#table-of-contents)
+
 
 - [Dataset Link](https://www.kaggle.com/nikhilmittal/flight-fare-prediction-mh)
 
