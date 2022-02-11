@@ -88,6 +88,12 @@ Steps for deployment:-
 ├── template
 │   ├── home.html
 ├── Procfile
+├── Docs of HLD,LLD,DPR
+    ├── ARCHITECTURE FLIGHT FARE.pdf
+    ├── DETAIL PROJECT REPORT FLIGHT FARE.pdf
+    ├── HIGH LEVEL DESIGN FLIGHT FARE ESTIMATOR.pdf
+    ├── LOW LEVEL DOCUMENT FLIGHT FARE.pdf
+    ├── WIRE-FRAME FLIGHT FARE ESTIMATOR.pdf
 ├── README.md
 ├── app.py
 ├── flight_price.ipynb
